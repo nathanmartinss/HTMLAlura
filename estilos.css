@@ -1,0 +1,23 @@
+.texto-menor {
+  font-size: 13px;
+}
+
+.divs-facilidades {
+  width: 325px;
+}
+
+.btn-primary,
+.button {
+  background-color: #9353ff;
+  border-color: #9353ff;
+}
+
+.button:active,
+.button:hover,
+.btn-primary:active,
+.btn-primary:hover {
+  background-color: black;
+}
+.verde {
+  color: #daff01;
+}
